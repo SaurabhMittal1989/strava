@@ -23,6 +23,10 @@
    8. Trail-Pieces to Trail-Sequences
    9. Smart Combination of Recipes using Trail-Piece Ingredients
    10. Smart Plan using Path Info
+   11. Elevation Statistics
+   12. Road Types: Wide roads vs Small Roads
+   13. Headwind and Tailwind Analytics
+
 
 4. Live Analytics:
    1. Traffic Data and Traffic Sensing
